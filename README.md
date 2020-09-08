@@ -14,15 +14,10 @@ across experiments.
   <td><b>Github Repository</b></td>
   <td>
     <a href="https://github.com/nfstream/nfstream">
-    <img src="https://img.shields.io/badge/nfstream%2Fnfstream-master-blue&style=for-the-badge" alt="GitHub" />
+    <img src="https://img.shields.io/badge/nfstream%2Fnfstream-master-blue?logo=github&style=for-the-badge" alt="GitHub" />
     </a>
   </td>
 </tr>
-<tr>
-  <td><b>Project Website</b></td>
-  <td>
-    <a href="https://www.nfstream.org/">
-    <img src="https://img.shields.io/website?down_color=red&down_message=down&label=nfstream.org&logo=github&up_color=blue&up_message=up&url=https%3A%2F%2Fnfstream.org%2F&style=for-the-badge" alt="website" />
     </a>
   </td>
 </tr>
