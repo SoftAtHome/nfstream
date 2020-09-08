@@ -7,7 +7,17 @@ building block for doing practical, **real world** network data analysis in Pyth
 goal of becoming **a common network data analytics framework for researchers** providing data reproducibility 
 across experiments.
 
+
+
 <table>
+<tr>
+  <td><b>Github Repository</b></td>
+  <td>
+    <a href="https://github.com/nfstream/nfstream">
+    <img src="https://img.shields.io/badge/nfstream%2Fnfstream-master-blue&style=for-the-badge" alt="GitHub" />
+    </a>
+  </td>
+</tr>
 <tr>
   <td><b>Project Website</b></td>
   <td>
